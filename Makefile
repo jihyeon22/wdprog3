@@ -57,7 +57,7 @@ WORK_PATH   := /system/$(VER)
 
 
 
-APP	:= wdprog2
+APP	:= wdprog3
 
 all: all-before	$(APP)
 
